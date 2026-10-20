@@ -25,3 +25,18 @@ header, footer {
     height: auto;
     display: block;
 }
+
+a.tg-back, .tg-back a {
+    color: #e8c36a;
+    text-decoration: none;
+    border-bottom: 1px solid rgba(232, 195, 106, 0.45);
+}
+.tg-back a:hover {
+    color: #fff;
+    border-bottom-color: #fff;
+}
+.tg-back {
+    margin: 0 0 8px 0;
+    font-size: 0.95rem;
+    line-height: 1.4;
+}
